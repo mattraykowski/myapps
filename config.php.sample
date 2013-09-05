@@ -1,0 +1,7 @@
+<?php
+
+$db_host = "localhost";
+$db_user = "myapps_user";
+$db_pass = "password123";
+$db_name = "myapps";
+?>

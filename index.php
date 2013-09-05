@@ -1,9 +1,6 @@
 <?php
 
-$db_host = "localhost";
-$db_user = "myapps_user";
-$db_pass = "password123";
-$db_name = "myapps";
+require 'config.php';
 
 if (!mysql_connect($db_host, $db_user, $db_pass))
     die("Can't connect to database");
