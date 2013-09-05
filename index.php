@@ -22,6 +22,7 @@ $fields_num = mysql_num_fields($result);
   </head>
   <body>
     <h1>Welcome to My CHC Applications</h1>
+    <h5>Development Mode</h5>
     <table width="100%">
       <thead>
         <th>App Name</th>
